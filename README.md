@@ -1,1 +1,1 @@
-# Comp_Vision_Project
+# Computer Vision Project
